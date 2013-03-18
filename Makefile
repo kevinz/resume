@@ -12,7 +12,7 @@ html:  clean $(HTML)
 	python resume.py html < $< | pandoc -t html -c resume.css -o $@
 
 %.pdf:  %.md
-	python resume.py tex < $< | pandoc --template=./pandoc-templates/default.latex -H header.tex -o $@
+	python resume.py tex < $< | pandoc --template=default.latex -H header.tex -o $@
 
 clean:
 	rm -f *.html *.pdf

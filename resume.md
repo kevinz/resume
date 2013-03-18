@@ -1,71 +1,63 @@
-Markdown Resumé
-===============
-
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
-
-Interests
----------
-
-*   Creating beautiful resumés from simple Markdown documents
+Bin Zeng
+========
++86 18665031554 • kevintech08@gmail.com • <http://github.com/kevinz> • <http://gekben.gitcd.com/>
 
 
-Work Experience
----------------
+Work Experiences
+----------------
 
-*   **Word Processor** (Redmond, WA)
+*   **Ericsson** (GuangZhou, China)
 
-    Junior Resumé Maker, 2006 - 2007
+    Senior system engineer, October 2010 - Present
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    -   Design and implement a high performance load balancer,based on Linux core network stack,
+        in charge of 90% design and coding of kernel work.
+    -   10Gb network performance tuning and test.
+    -   Mobile advertisement platform development for global use,like admob or imob,
+        based on java solution,my responsibility is performance optimization and non functional issue solving.
 
-*   **\LaTeX\ + pdflatex**
+*   **Tianya** (Guangzhou, China) <http://www.alexa.com/siteinfo/tianya.cn>
 
-    Senior Resumé Maker, 2008 - 2010
+    System architect, June 2010 - September 2010
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+    -   Optimize product's performance and stability before releasing to public, mainly about mysql db and java.
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+*   **Alipay** (Hangzhou, China) <http://www.alexa.com/siteinfo/alipay.com>
 
-    Web Resumé Intern, August 2010
+    Developer and System Architect, March 2007 - June 2010 
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+    -   Design and implement system infrastructure,co-create a Service-oriented framework. 
+    -   Design and implement artifact construction and deployment standard based on Apache Maven.
+    -   System Performance optimization,mainly about jvm. 
+    -   Lead troubleshooting team fighting for emergency issues and bugs.
+    -   Outstanding Engineer,1st half 2009.
 
-*   **Markdown with Pandoc**
+*   **HSBC Software Development** (Guangzhou, China) 
 
-    Resumé Architect, February 2011 - present
+    System Analyst, November 2006 - March 2007
+    -   Software design and implementation, java related.
 
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+*   **Suntek Technology** (Guangzhou, China) 
 
+    System Analyst, August 2005 - September 2006
+
+    -   Java developer,design and implement products for telecom operator like China Mobile.
+
+Skills
+------
+*   **Languages** English as working language, Native in Mandarin.
+*   **Highlights** Linux,Kernel,Java,C.
+*   **Interests** Kernel code,openwrt,embedded Linux,follow interesting open source project,basketball
+*   **Software Development**
+    -   Developed on Linux for over 9 years
+    -   Using vim and emacs over 6 years
+    -   Scripting language like python,perl and lua
+    -   Quick learner, like reading source code, make me learn fast and in depth
+    -   Familiar with version control systems like Git, Subversion
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **Chongqing Technology and Business University** 
 
-    B.S. in Submodules, May 2012
-
-
-Skills
-------
-
-*   Very experienced with Python, Markdown, \LaTeX
-
-*   Familiar with GNU Make, bash
-
-
+    2001.9 - 2005.6 bachelor, Computer Science and Technology
