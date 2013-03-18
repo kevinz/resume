@@ -9,9 +9,9 @@ Work Experiences
 *   **Ericsson** (GuangZhou, China)
 
     Senior system engineer, October 2010 - Present
-
-    -   Designed and implemented a high performance load balancer,based on Linux core network stack,
-        in charge of 90% design and coding of kernel work.
+    -   Designed and implemented a high performance load balancer for commercial product replacement,
+        based on Linux core network stack,in charge of 90% design and coding of kernel work.
+    -   Add forwarding based on mac address feature to LVS,for internal use and test only.
     -   10Gb network performance tuning and test.
     -   Engaged in mobile advertisement platform development for global use,like admob or imob,
         based on java solution,my responsibility is performance optimization and non functional issue solving.
@@ -26,9 +26,9 @@ Work Experiences
 
     Developer and System Architect, March 2007 - June 2010 
 
-    -   Co-designed and implemented distributed and Service-oriented system infrastructure.
+    -   Co-designed and implemented distributed and Service-oriented system infrastructure,in Java.
     -   Extended Spring,implemented a framework work with the low level infrastructure,
-        and provide simple and clear high level API for other programmers.
+        and provide simple and clear high level API for other programmers,in Java.
     -   Designed and implemented artifact construction and deployment standard based on Apache Maven.
     -   System Performance optimization,mainly about Linux and jvm. 
     -   Lead troubleshooting team fighting for emergency issues and bugs.
@@ -55,7 +55,7 @@ Skills
     -   Used Vim and Emacs for over 6 years.
     -   Scripting language like python,perl and lua.
     -   Familiar with version control systems like Git, Subversion.
-    -   Quick learner, like reading source code, make it fast and in depth.
+    -   Quick learner, used to dive into source code, make understanding faster and in depth.
 *   **Others**
     -   Use markdown and octopress for blogging.
     -   Effective GTD with Emacs org-mode.
