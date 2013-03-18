@@ -20,7 +20,7 @@ Work Experiences
 
     System architect, June 2010 - September 2010
 
-    -   Optimize product's performance and stability before releasing to public, mainly about mysql db and java.
+    -   Optimize product's performance and stability before releasing to public, mainly about Linux and mysql db.
 
 *   **Alipay** (Hangzhou, China) <http://www.alexa.com/siteinfo/alipay.com>
 
@@ -28,7 +28,7 @@ Work Experiences
 
     -   Design and implement system infrastructure,co-create a Service-oriented framework. 
     -   Design and implement artifact construction and deployment standard based on Apache Maven.
-    -   System Performance optimization,mainly about jvm. 
+    -   System Performance optimization,mainly about Linux and jvm. 
     -   Lead troubleshooting team fighting for emergency issues and bugs.
     -   Outstanding Engineer,1st half 2009.
 
